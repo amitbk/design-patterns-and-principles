@@ -3,4 +3,5 @@
 # design-patterns-and-principles
 The ultimate guide of design patterns and principles
 
+## Clone the repo
 ```git clone git@github.com:amitbk/design-patterns-and-principles.git```
